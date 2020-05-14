@@ -3,16 +3,9 @@ sites_supported:
   - mla
   - mco
   - global
-indexable: false
 ---
 
 # Mercado Pago Gateway: Conciliação
-
-> WARNING
->
-> Contato comercial necessário
->
-> Você só pode integrar este produto se o seu contato comercial compartilhar todas as informações necessárias para isso.
 
 A seguir verá informação sobre como conciliar as operações de Mercado Pago Gateway com as operações dos adquirentes e emissores.
 

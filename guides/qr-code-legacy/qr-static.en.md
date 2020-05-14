@@ -1,6 +1,15 @@
 ---
-  indexable: false
+sites_supported:
+- mla
+- mpe
+- mco
+- mlu
+- mlm
+- mlc
+- mlb
 ---
+
+
 
 # Payments with QR codes without integration
 

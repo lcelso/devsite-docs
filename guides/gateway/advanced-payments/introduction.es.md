@@ -2,17 +2,9 @@
 sites_supported:
   - mla
   - mco
-indexable: false
 ---
 
 # Pagos en modo Gateway en Advanced Payments
-
-> WARNING
->
-> Contacto comercial requerido
->
-> Solo puedes integrar este producto si tu contacto comercial te compartió toda la información necesaria para hacerlo.
-
 
 ## Introducción
 

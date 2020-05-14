@@ -1,7 +1,4 @@
 ---
-  indexable: false
----
----
 sites_supported:
   - mla
   - mlb

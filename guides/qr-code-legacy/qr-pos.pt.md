@@ -1,6 +1,14 @@
 ---
-  indexable: false
+sites_supported:
+- mla
+- mpe
+- mco
+- mlu
+- mlm
+- mlc
+- mlb
 ---
+
 
 # Pagamentos com QR no Ponto de Venda
 

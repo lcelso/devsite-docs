@@ -39,7 +39,6 @@ Sabemos que alguns termos são técnicos e você pode não estar familiarizado c
 | SHIPPING_ID | Identificador de envio. |
 | SHIPMENT_MODE |  Modalidade de envio. |
 | PACK_ID |  Identificador do pacote no carrinho. |
-| TAXES_DISAGGREGATED | Impostos desagregados no formato JSON. |
 
 <hr/>
 

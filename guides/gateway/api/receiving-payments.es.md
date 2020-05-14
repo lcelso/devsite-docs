@@ -2,26 +2,16 @@
 sites_supported:
   - mla
   - mco
-indexable: false
 ---
 
 # Mercado Pago Gateway: API
-
-
-> WARNING
->
-> Contacto comercial requerido
->
-> Solo puedes integrar este producto si tu contacto comercial te compartió toda la información necesaria para hacerlo. 
-
-</br>
 
 > NOTE
 >
 > Pre-requisito
 >
-> Haber realizado [la integración](https://www.mercadopago.com.ar/developers/es/guides/payments/api/introduction) de **API**
 
+> Haber realizado [la integración](https://www.mercadopago.com.ar/developers/es/guides/payments/api/introduction) de **API**
 
 ## Nuevos conceptos
 

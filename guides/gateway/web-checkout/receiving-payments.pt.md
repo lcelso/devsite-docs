@@ -3,7 +3,6 @@ sites_supported:
   - mla
   - mco
   - global
-indexable: false
 ---
 
 # Mercado Pago Gateway: Checkout Mercado Pago
@@ -24,13 +23,6 @@ indexable: false
 
 > Ter realizado [la integración](https://www.mercadopago.com.mx/developers/es/guides/payments/web-checkout/introduction) de **Checkout Mercado Pago**
 ------------
-</br>
-
-> WARNING
->
-> Contato comercial necessário
->
-> Você só pode integrar este produto se o seu contato comercial compartilhar todas as informações necessárias para isso.
 
 ## Integração
 

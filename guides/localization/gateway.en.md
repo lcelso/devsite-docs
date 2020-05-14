@@ -1,7 +1,3 @@
----
-indexable: false
----
-
 # Gateway
 
 **Mercado Pago Gateway** availability varies per country

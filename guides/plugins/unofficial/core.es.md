@@ -1,6 +1,3 @@
----
-  indexable: false
----
 # CORE
 
 ![CORE Configuracao](/images/core18.png)
