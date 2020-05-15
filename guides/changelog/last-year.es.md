@@ -10,6 +10,10 @@ Cada release note describe los cambios que aplican a una versión. Estos cambios
 
 - **Actualizaciones en la documentación:** Guías, referencias y tutoriales para ayudarte a monetizar tu negocio integrando Mercado Pago.
 
+## 15 de Mayo de 2020
+
+Pasó algo
+
 ## 5 de Diciembre de 2019
 
 En Mercado Pago buscamos siempre optimizar nuestra plataforma ofreciendo la más alta eficiencia y seguridad en el procesamiento de pagos.
