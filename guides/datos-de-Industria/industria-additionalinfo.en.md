@@ -5,8 +5,6 @@
 Revisá que campos podes enviar, dependiendo de tu industria, para mejorar tu aprobación:
 
 
-
-
 ## Apparel
 
 ## Campos a enviar: Additional Info
