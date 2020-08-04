@@ -2,7 +2,6 @@
 
 También puedes enviar los datos sobre tu industria para mejorar tu aprobación. [Ir a datos sobre industrias](https://www.mercadopago.com.ar/developers/es/guides/manage-account/industria-additionalinfo).
 
-
 # Datos sobre industrias
 
 ## Detalle de campos para enviar
